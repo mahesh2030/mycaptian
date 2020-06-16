@@ -1,0 +1,4 @@
+list1=[12,14,-95 , 3]
+for a in list1:
+     if( a>0):
+       print(a)
